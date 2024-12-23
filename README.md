@@ -66,12 +66,13 @@ OOPJ-Assignment/
 ## Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request. Ensure all contributions adhere to the project guidelines.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## Output 
+https://drive.google.com/file/d/170pp_JRR2LFueix9HODF-qKgc3tDAeAT/view?usp=sharing
 
 ## Acknowledgments
 - **Instructor**: Guidance and support for the OOPJ assignment.
-- **Resources**: Java documentation and online tutorials.
+- **Resources**: Java documentation and online tutorials
+
 
 ---
 Feel free to explore, use, and modify this project. If you have any questions or suggestions, please open an issue or contact me through the repository.
