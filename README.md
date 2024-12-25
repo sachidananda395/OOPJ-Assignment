@@ -56,7 +56,10 @@ OOPJ-Assignment/
    - Withdraw or deposit funds.
    - View your transaction history.
 3. **Logout**: Ensure your session is secure by logging out.
+   
 
+## Output Video
+https://youtu.be/g_VA7SyIiBA?si=4ZdT2ChFfXZB1e-t
 ## Future Enhancements
 - Integration with a database for persistent data storage.
 - Adding support for multiple account types (e.g., savings, current).
@@ -65,9 +68,6 @@ OOPJ-Assignment/
 
 ## Contributing
 Contributions are welcome! Please fork this repository, make your changes, and submit a pull request. Ensure all contributions adhere to the project guidelines.
-
-## Output 
-https://drive.google.com/file/d/170pp_JRR2LFueix9HODF-qKgc3tDAeAT/view?usp=sharing
 
 ## Acknowledgments
 - **Instructor**: Guidance and support for the OOPJ assignment.
